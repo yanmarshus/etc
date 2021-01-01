@@ -20,6 +20,6 @@ set cursorline
 set wrapscan
 set report = 0
 set synmaxcol = 254
-set list
+set nolist
 set nobackup
 
